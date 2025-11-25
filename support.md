@@ -157,7 +157,7 @@ All data is:
 - **Stored securely** on enterprise-grade infrastructure (Supabase)
 - **Never sold** to third parties
 
-For complete details, see our [Privacy Policy](PRIVACY_POLICY.md).
+For complete details, see our [Privacy Policy](https://amfamfamf.github.io/rankedsleeppages/privacy-policy).
 
 ### How do I delete my account or data?
 
@@ -276,8 +276,8 @@ If you have issues, questions, or need help with anything else, reach us at:
 
 ## Additional Resources
 
-- **[Privacy Policy](PRIVACY_POLICY.md)** - How we protect your data
-- **[Terms of Service](TERMS_OF_SERVICE.md)** - Terms and conditions
+- **[Privacy Policy](https://amfamfamf.github.io/rankedsleeppages/privacy-policy)** - How we protect your data
+- **[Terms of Service](https://amfamfamf.github.io/rankedsleeppages/terms-of-service)** - Terms and conditions
 - **App Store** - Leave a review or check for updates
 - **Social Media** - Follow us for tips and updates (coming soon)
 
